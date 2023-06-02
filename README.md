@@ -1,9 +1,10 @@
 
-<h1 align="center"> Hi 👋, I'm Sama <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="40"  alt="hi" /> </h1>
+<h1 align="center"> Hi 👋, I'm Samat/> </h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 
-<!-- <p align="center"><img src="https://media.tenor.com/LtF6lgB8FdsAAAAi/mochi-peach.gif" width="200"  alt="hi" /></p> -->
-<!-- <img src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif" width="40"  alt="hi" /> -->
+ <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100"/>
+<div id="badges">
+
 
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
@@ -61,7 +62,7 @@
 
     </td>
     <td>
-      <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidagube&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="aidagube" />
+      <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samy4-byte&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="samy4-byte" />
     </td>
   </tr>
 </table> -->
