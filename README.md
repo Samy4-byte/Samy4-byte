@@ -1,9 +1,9 @@
 
 <h1 align="center"> Hi 👋, I'm Samat/> </h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-
- <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100px" height="50px"/>
-<div id="badges">
+<div align="center">
+ <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600px" height="300px"/>
+</div>
 
  
 ---
@@ -40,7 +40,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="mui" alt="mui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
- <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" title="boostrap" target="_blank"> alt="bootstrap" width="40" height="40"/>&nbsp;
+ <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" title="boostrap" target="_blank" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
@@ -49,5 +49,5 @@
 ---
 
 ### ⚙️ My Stats :
- <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aidagube&layout=compact&theme=vision-friendly-dark" />
+ <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=samy4-byte&layout=compact&theme=vision-friendly-dark" />
       
