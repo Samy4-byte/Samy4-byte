@@ -2,11 +2,9 @@
 <h1 align="center"> Hi 👋, I'm Samat/> </h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 
- <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100px" height="50px"/>
 <div id="badges">
 
-
-![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
 ---
 
