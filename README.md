@@ -5,10 +5,7 @@
  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100px" height="50px"/>
 <div id="badges">
 
-
----
-
-
+ 
 ---
 
 ### 🤝 Connect with me :
@@ -54,13 +51,3 @@
 ### ⚙️ My Stats :
  <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aidagube&layout=compact&theme=vision-friendly-dark" />
       
-<!-- <table>
-  <tr>
-    <td>
-
-    </td>
-    <td>
-      <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samy4-byte&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="samy4-byte" />
-    </td>
-  </tr>
-</table> -->
